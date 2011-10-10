@@ -11,5 +11,6 @@ These helpers provide you with an easy way to utilize the Windows Azure CDN to i
 You must have a Windows Azure account to use these tools. You can sign up for a free trial of Windows Azure [here](http://www.microsoft.com/windowsazure/free-trial/).
 
 This project is released for download on nuget.
-[CdnHelpers.Razor](http://nuget.org/List/Packages/CdnHelpers.Razor)
-[CdnHelpers.ASPX](http://nuget.org/List/Packages/CdnHelpers.ASPX)
+
+* [CdnHelpers.Razor](http://nuget.org/List/Packages/CdnHelpers.Razor)
+* [CdnHelpers.ASPX](http://nuget.org/List/Packages/CdnHelpers.ASPX)
