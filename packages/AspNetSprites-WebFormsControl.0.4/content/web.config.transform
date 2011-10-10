@@ -1,0 +1,21 @@
+<configuration>
+
+    <system.web>
+        <pages>
+            <controls>
+                <add assembly="Microsoft.Web.Samples.ImageSprite" namespace="Microsoft.Web.Samples" tagPrefix="asp" />
+            </controls>
+        </pages>
+        <httpModules>
+            <add type ="Microsoft.Web.Samples.ImageOptimizationModule" name ="Microsoft.Web.Samples.ImageOptimizationModule"/>
+        </httpModules>
+    </system.web>
+
+    <system.webServer>
+        <validation validateIntegratedModeConfiguration="false"/>
+        <modules>
+            <add type="Microsoft.Web.Samples.ImageOptimizationModule" name="Microsoft.Web.Samples.ImageOptimizationModule"/>
+        </modules>
+    </system.webServer>
+
+</configuration>

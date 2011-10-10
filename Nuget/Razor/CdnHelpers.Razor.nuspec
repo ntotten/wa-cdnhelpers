@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>CdnHelpers.Razor</id>
+    <version>2.0.0</version>
+    <authors>ntotten</authors>
+    <owners>ntotten</owners>
+    <licenseUrl>http://cdnhelpers.codeplex.com/license</licenseUrl>
+    <projectUrl>http://cdnhelpers.codeplex.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is a set of tools that help you quickly utilize the Windows Azure CDN from your ASP.NET Website.</description>
+    <tags>WindowsAzure ASPNET</tags>
+    <dependencies>
+        <dependency id="RazorEngine" version="2.1" />
+		<dependency id="AjaxMin" version="4.19.4141.18463" />
+		<dependency id="AspNetSprites-Core" version="0.4" />
+		<dependency id="AspNetSprites-MvcAndRazorHelper" version="0.4" />
+		<dependency id="WebActivator" version="1.4.1" />
+    </dependencies>
+  </metadata>
+</package>
