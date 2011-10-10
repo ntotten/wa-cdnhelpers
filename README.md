@@ -11,3 +11,5 @@ This project is released for download on nuget.
 
 * [CdnHelpers.Razor](http://nuget.org/List/Packages/CdnHelpers.Razor)
 * [CdnHelpers.ASPX](http://nuget.org/List/Packages/CdnHelpers.ASPX)
+
+This project is licensed under the [Microsoft Public License (MS-PL)](http://www.opensource.org/licenses/ms-pl.html)
